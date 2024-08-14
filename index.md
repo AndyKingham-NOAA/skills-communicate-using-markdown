@@ -3,6 +3,10 @@
 ## More Test H3
 ### Additional Test H4
 
+Normal text
+
+_italicized text_
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
